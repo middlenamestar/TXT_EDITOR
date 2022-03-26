@@ -40,7 +40,7 @@ module.exports = () => {
         short_name: 'TXTEDIT',
         description: 'write notes and code here!',
         background_color: '#F2F2F2',
-        theme_color: '#4B6547',
+        theme_color: '#F2F2F2',
         start_url: '/',
         publicPath: '/',
         icons: [
